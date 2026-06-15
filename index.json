@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "building-my-portfolio",
+      "title": "Building My Portfolio: From Blank Canvas to Online Presence",
+      "date": "2026-06-16",
+      "author": "Your Name",
+      "tags": ["portfolio", "web development", "personal branding"],
+      "excerpt": "A quick look at how I built my portfolio from scratch and what I learned along the way.",
+      "cover": "./building-my-portfolio/cover.webp",
+      "hero": "./building-my-portfolio/hero.webp",
+      "slug": "building-my-portfolio",
+      "readTime": "1 min read"
+    }
+  ]
+}
