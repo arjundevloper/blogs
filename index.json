@@ -7,8 +7,19 @@
     "date": "2026-06-16",
     "author": "Arjun Bhadauria",
     "tags": ["portfolio", "web development", "personal branding"],
-    "excerpt": "A quick look at how I built my portfolio from scratch and what I learned along the way.",
-    "readTime": "1 min",
-    "featured": true
+    "excerpt": "A short description of the post…",
+    "featured": true,
+    "readTime": "5 min"
+  },
+  {
+    "id": "another-post",
+    "slug": "another-post",
+    "title": "Another Post Title",
+    "category": "Design",
+    "date": "2026-06-10",
+    "author": "Arjun Bhadauria",
+    "tags": ["design", "ui"],
+    "excerpt": "…",
+    "readTime": "3 min"
   }
 ]
